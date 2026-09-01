@@ -4,7 +4,7 @@
 
 using namespace std;
 
-// the using namespace std part tells the computer (specifically std) to recognize cmds from library such as cout , vecotor , int ,etc 
+// the using namespace std part tells the computer (specifically std) to recognize cmds from library such as cout , vector , int ,etc 
 
 int main()
 
